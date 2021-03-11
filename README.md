@@ -20,6 +20,7 @@ Just a list of Awesome Alt Langs to check out:
 * [inko](https://inko-lang.org) - Safe and concurrent object-oriented programming, without the headaches.
 * [io](https://iolanguage.org) - a programming language focused on expressiveness through simplicity.
 * [Lumen](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
+* [mun](https://mun-lang.org/) - a programming language empowering creation through iteration.
 * [nim](https://nim-lang.org/) - a statically typed compiled systems programming language
 * [Odin](https://odin-lang.org/) - The Odin programming language is designed with the intent of creating an alternative to C with the following goals: simplicity, high performance, built for modern systems and joy of programming.
 * [picolisp](https://picolisp.com) - a programming language, or really a programming system, including a built-in database engine and a GUI system! It's simple and lightweight and encourages clean, concise code.
