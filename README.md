@@ -2,10 +2,11 @@
 
 Just a list of Awesome Alt Langs to check out:
 
-
 * [Clean](https://clean.cs.ru.nl/Clean) - a general purpose, state-of-the-art, pure and lazy functional programming language designed for making real-world applications
+* [gleam](https://gleam.run/) - a fast, friendly, and functional language for building type-safe, scalable systems!
 * [GOO](https://googoogaga.github.io/) - type-based prefix syntaxed language that is simple, powerful and extensible
 * [Janet](https://janet-lang.org) - a functional and imperative programming language 
+* [koka](https://koka-lang.github.io/koka/doc/index.html) - A Functional Language with Effect Types and Handlers
 * [Pharo](https://pharo.org) - a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback
 * [Shen](http://shenlanguage.org/) - a hypermodern functional language that offers many features not currently available under other functional platforms
 * [crystal](https://crystal-lang.org/) - a language for humans and computers.
