@@ -15,6 +15,7 @@ Just a list of Awesome Alt Langs to check out:
 * [idris](https://www.idris-lang.org/) - A Language for Type-Driven Development.
 * [inko](https://inko-lang.org) - Safe and concurrent object-oriented programming, without the headaches.
 * [io](https://iolanguage.org) - a programming language focused on expressiveness through simplicity.
+* [Lumen](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
 * [nim](https://nim-lang.org/) - a statically typed compiled systems programming language
 * [picolisp](https://picolisp.com) - a programming language, or really a programming system, including a built-in database engine and a GUI system! It's simple and lightweight and encourages clean, concise code.
 * [pony](https://www.ponylang.io/) - an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
