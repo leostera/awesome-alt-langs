@@ -4,6 +4,7 @@ Just a list of Awesome Alt Langs to check out:
 
 * [caramel](https://caramel.run) - a functional language for building type-safe, scalable, and maintainable applications
 * [Clean](https://clean.cs.ru.nl/Clean) - a general purpose, state-of-the-art, pure and lazy functional programming language designed for making real-world applications
+* [Felix](http://felix-lang.github.io/felix/) -  an advanced, statically typed, high performance scripting language with native C++ embedding
 * [gleam](https://gleam.run/) - a fast, friendly, and functional language for building type-safe, scalable systems!
 * [GOO](https://googoogaga.github.io/) - type-based prefix syntaxed language that is simple, powerful and extensible
 * [Janet](https://janet-lang.org) - a functional and imperative programming language 
