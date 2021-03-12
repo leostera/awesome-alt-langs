@@ -34,4 +34,3 @@ Just a list of Awesome Alt Langs to check out:
 * [zz](https://github.com/zetzit/zz) -  zymbolic verifier and tranzpiler to bare metal C
 * [MoonScript](https://moonscript.org) - A programmer friendly language that compiles to Lua.
 * [Fennel](https://fennel-lang.org) - Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system.
-
