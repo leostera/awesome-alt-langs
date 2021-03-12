@@ -18,6 +18,7 @@ Just a list of Awesome Alt Langs to check out:
 * [idris](https://www.idris-lang.org/) - A Language for Type-Driven Development.
 * [inko](https://inko-lang.org) - Safe and concurrent object-oriented programming, without the headaches.
 * [io](https://iolanguage.org) - a programming language focused on expressiveness through simplicity.
+* [J](https://www.jsoftware.com/) - a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data.
 * [Janet](https://janet-lang.org) - a functional and imperative programming language.
 * [koka](https://koka-lang.github.io/koka/doc/index.html) - A Functional Language with Effect Types and Handlers.
 * [Lumen](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
