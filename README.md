@@ -6,6 +6,7 @@ Just a list of Awesome Alt Langs to check out:
 * [caramel](https://caramel.run) - a functional language for building type-safe, scalable, and maintainable applications.
 * [carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 * [Clean](https://clean.cs.ru.nl/Clean) - a general purpose, state-of-the-art, pure and lazy functional programming language designed for making real-world applications.
+* [CoffeeScript](https://coffeescript.org/) - an attempt to expose the good parts of JavaScript in a simple way.
 * [crystal](https://crystal-lang.org/) - a language for humans and computers.
 * [F*](https://www.fstar-lang.org/) - a general-purpose functional programming language with dependent types, monadic effects, refinement types, and a weakest precondition calculus.
 * [Felix](http://felix-lang.github.io/felix/) -  an advanced, statically typed, high performance scripting language with native C++ embedding.
