@@ -26,8 +26,9 @@ Just a list of Awesome Alt Langs to check out:
 * [Pharo](https://pharo.org) - a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback.
 * [picolisp](https://picolisp.com) - a programming language, or really a programming system, including a built-in database engine and a GUI system! It's simple and lightweight and encourages clean, concise code.
 * [pony](https://www.ponylang.io/) - an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
-* [pyret](https://pyret.org) - a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming
+* [pyret](https://pyret.org) - a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming.
 * [red](https://www.red-lang.org/) - a next-gen programming language, strongly inspired by REBOL.
+* [ReScript](https://rescript-lang.org/) - The JavaScript-like language you have been waiting for. Previously known as BuckleScript and Reason.
 * [Shen](http://shenlanguage.org/) - a hypermodern functional language that offers many features not currently available under other functional platforms.
 * [unison](https://www.unisonweb.org/) Unison’s core idea is that code is immutable and identified by its content.  
 * [v](https://vlang.io) - Simple, fast, safe, compiled. For developing maintainable software.
