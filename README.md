@@ -11,6 +11,7 @@ Just a list of Awesome Alt Langs to check out:
 * [Felix](http://felix-lang.github.io/felix/) -  an advanced, statically typed, high performance scripting language with native C++ embedding.
 * [Fennel](https://fennel-lang.org) - Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system.
 * [flix](https://flix.dev/) - a statically typed functional, imperative, and logic programming language with advanced features that compiles to JVM bytecode.
+* [Futhark](https://futhark-lang.org/) - high-performance purely functional data-parallel array programming.
 * [gleam](https://gleam.run/) - a fast, friendly, and functional language for building type-safe, scalable systems!
 * [GOO](https://googoogaga.github.io/) - type-based prefix syntaxed language that is simple, powerful and extensible.
 * [grain](https://grain-lang.org) - a new language that puts academic language features to work.
