@@ -14,6 +14,7 @@ Just a list of Awesome Alt Langs to check out:
 * [flix](https://flix.dev/) - a statically typed functional, imperative, and logic programming language with advanced features that compiles to JVM bytecode.
 * [Futhark](https://futhark-lang.org/) - high-performance purely functional data-parallel array programming.
 * [gleam](https://gleam.run/) - a fast, friendly, and functional language for building type-safe, scalable systems!
+* [Golo](https://golo-lang.org/) — a lightweight dynamic language for the JVM.
 * [GOO](https://googoogaga.github.io/) - type-based prefix syntaxed language that is simple, powerful and extensible.
 * [grain](https://grain-lang.org) - a new language that puts academic language features to work.
 * [idris](https://www.idris-lang.org/) - A Language for Type-Driven Development.
