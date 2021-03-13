@@ -1,7 +1,7 @@
 # Awesome Alt Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Just a list of Awesome Alt Langs to check out:
-
+* [Alpaca](https://github.com/alpaca-lang/alpaca) - a statically typed, strict/eagerly evaluated, functional programming language for the Erlang virtual machine, inspired by ML
 * [Arend](https://arend-lang.github.io/) - a theorem prover based on Homotopy Type Theory. IntelliJ Arend is a plugin for IntelliJ IDEA that turns it into a full-fledged IDE for the Arend language.
 * [Beef](https://www.beeflang.org/) - an open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment.
 * [caramel](https://caramel.run) - a functional language for building type-safe, scalable, and maintainable applications.
