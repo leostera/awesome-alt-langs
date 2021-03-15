@@ -3,6 +3,7 @@
 Just a list of Awesome Alt Langs to check out:
 * [Alpaca](https://github.com/alpaca-lang/alpaca) - a statically typed, strict/eagerly evaluated, functional programming language for the Erlang virtual machine, inspired by ML
 * [Arend](https://arend-lang.github.io/) - a theorem prover based on Homotopy Type Theory. IntelliJ Arend is a plugin for IntelliJ IDEA that turns it into a full-fledged IDE for the Arend language.
+* [ATS](http://www.ats-lang.org/) - a statically typed programming language that unifies implementation with formal specification. It is equipped with a highly expressive type system rooted in the framework Applied Type System, which gives the language its name. In particular, both dependent types and linear types are available in ATS.
 * [Beef](https://www.beeflang.org/) - an open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment.
 * [caramel](https://caramel.run) - a functional language for building type-safe, scalable, and maintainable applications.
 * [carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
