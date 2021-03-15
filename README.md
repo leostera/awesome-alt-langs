@@ -7,17 +7,21 @@ Just a list of Awesome Alt Langs to check out:
 * [caramel](https://caramel.run) - a functional language for building type-safe, scalable, and maintainable applications.
 * [carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 * [Clean](https://clean.cs.ru.nl/Clean) - a general purpose, state-of-the-art, pure and lazy functional programming language designed for making real-world applications.
+* [Coconut](http://coconut-lang.org/) - Simple, elegant, Pythonic functional programming.
 * [CoffeeScript](https://coffeescript.org/) - an attempt to expose the good parts of JavaScript in a simple way.
 * [crystal](https://crystal-lang.org/) - a language for humans and computers.
+* [Efene](https://efene.org/) - Efene is an alternative syntax for the Erlang Programming Language focusing on simplicity, consistency, ease of use and programmer UX.
 * [F*](https://www.fstar-lang.org/) - a general-purpose functional programming language with dependent types, monadic effects, refinement types, and a weakest precondition calculus.
 * [Felix](http://felix-lang.github.io/felix/) -  an advanced, statically typed, high performance scripting language with native C++ embedding.
 * [Fennel](https://fennel-lang.org) - Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system.
 * [flix](https://flix.dev/) - a statically typed functional, imperative, and logic programming language with advanced features that compiles to JVM bytecode.
 * [Futhark](https://futhark-lang.org/) - high-performance purely functional data-parallel array programming.
+* [Gerbil Scheme](https://cons.io/) - Gerbil is a meta-dialect of Scheme with post-modern features
 * [gleam](https://gleam.run/) - a fast, friendly, and functional language for building type-safe, scalable systems!
 * [Golo](https://golo-lang.org/) — a lightweight dynamic language for the JVM.
 * [GOO](https://googoogaga.github.io/) - type-based prefix syntaxed language that is simple, powerful and extensible.
 * [grain](https://grain-lang.org) - a new language that puts academic language features to work.
+* [Hy](https://docs.hylang.org/en/stable/) - Hy is a Lisp dialect that’s embedded in Python
 * [idris](https://www.idris-lang.org/) - A Language for Type-Driven Development.
 * [inko](https://inko-lang.org) - Safe and concurrent object-oriented programming, without the headaches.
 * [io](https://iolanguage.org) - a programming language focused on expressiveness through simplicity.
