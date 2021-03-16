@@ -44,6 +44,7 @@ Just a list of Awesome Alt Langs to check out:
 * [ReScript](https://rescript-lang.org/) - The JavaScript-like language you have been waiting for. Previously known as BuckleScript and Reason.
 * [Shen](http://shenlanguage.org/) - a hypermodern functional language that offers many features not currently available under other functional platforms.
 * [unison](https://www.unisonweb.org/) -  an open source functional programming language based on a simple idea with big implications: code is content-addressed and immutable.
+* [Unseemly](https://unseemly.github.io/) - the first language able to safely typecheck all macros before expansion.
 * [v](https://vlang.io) - Simple, fast, safe, compiled. For developing maintainable software.
 * [wren](https://wren.io/) - a small, fast, class-based concurrent scripting language.
 * [zig](https://ziglang.org/) - a general-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
