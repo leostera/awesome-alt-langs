@@ -5,9 +5,11 @@ Just a list of Awesome Alt Langs to check out:
 * [Arend](https://arend-lang.github.io/) - a theorem prover based on Homotopy Type Theory. IntelliJ Arend is a plugin for IntelliJ IDEA that turns it into a full-fledged IDE for the Arend language.
 * [ATS](http://www.ats-lang.org/) - a statically typed programming language that unifies implementation with formal specification. It is equipped with a highly expressive type system rooted in the framework Applied Type System, which gives the language its name. In particular, both dependent types and linear types are available in ATS.
 * [Beef](https://www.beeflang.org/) - an open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment.
+* [Ć](https://github.com/pfusik/cito) - a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.
 * [caramel](https://caramel.run) - a functional language for building type-safe, scalable, and maintainable applications.
 * [carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 * [Clean](https://clean.cs.ru.nl/Clean) - a general purpose, state-of-the-art, pure and lazy functional programming language designed for making real-world applications.
+* [Clio](https://clio-lang.org) - a functional, parallel, distributed programming language.
 * [Coconut](http://coconut-lang.org/) - Simple, elegant, Pythonic functional programming.
 * [CoffeeScript](https://coffeescript.org/) - an attempt to expose the good parts of JavaScript in a simple way.
 * [crystal](https://crystal-lang.org/) - a language for humans and computers.
