@@ -36,6 +36,7 @@ Just a list of Awesome Alt Langs to check out:
 * [mun](https://mun-lang.org/) - a programming language empowering creation through iteration.
 * [nim](https://nim-lang.org/) - a statically typed compiled systems programming language.
 * [Odin](https://odin-lang.org/) - The Odin programming language is designed with the intent of creating an alternative to C with the following goals: simplicity, high performance, built for modern systems and joy of programming.
+* [Passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code.
 * [Pharo](https://pharo.org) - a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback.
 * [picolisp](https://picolisp.com) - a programming language, or really a programming system, including a built-in database engine and a GUI system! It's simple and lightweight and encourages clean, concise code.
 * [pony](https://www.ponylang.io/) - an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
