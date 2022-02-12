@@ -3,6 +3,7 @@
 Just a list of Awesome Alt Langs to check out:
 * [Alpaca](https://github.com/alpaca-lang/alpaca) - a statically typed, strict/eagerly evaluated, functional programming language for the Erlang virtual machine, inspired by ML
 * [Arend](https://arend-lang.github.io/) - a theorem prover based on Homotopy Type Theory. IntelliJ Arend is a plugin for IntelliJ IDEA that turns it into a full-fledged IDE for the Arend language.
+* [Arturo](https://github.com/arturo-lang/arturo) - Arturo is a modern, dynamic programming language for fast and portable standalone scripts, based on syntactic flexibility
 * [ATS](http://www.ats-lang.org/) - a statically typed programming language that unifies implementation with formal specification. It is equipped with a highly expressive type system rooted in the framework Applied Type System, which gives the language its name. In particular, both dependent types and linear types are available in ATS.
 * [Beef](https://www.beeflang.org/) - an open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment.
 * [Ć](https://github.com/pfusik/cito) - a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.
