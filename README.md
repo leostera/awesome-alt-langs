@@ -23,6 +23,7 @@ Just a list of Awesome Alt Langs to check out:
 * [Gerbil Scheme](https://cons.io/) - Gerbil is a meta-dialect of Scheme with post-modern features
 * [gleam](https://gleam.run/) - a fast, friendly, and functional language for building type-safe, scalable systems!
 * [Golo](https://golo-lang.org/) — a lightweight dynamic language for the JVM.
+* [Go+](https://goplus.org/) - The Go+ programming language is designed for engineering, STEM education, and data science.
 * [GOO](https://googoogaga.github.io/) - type-based prefix syntaxed language that is simple, powerful and extensible.
 * [grain](https://grain-lang.org) - a new language that puts academic language features to work.
 * [Hy](https://docs.hylang.org/en/stable/) - Hy is a Lisp dialect that’s embedded in Python
