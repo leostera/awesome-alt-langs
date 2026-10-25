@@ -16,6 +16,7 @@ Just a list of Awesome Alt Langs to check out:
 * [crystal](https://crystal-lang.org/) - a language for humans and computers.
 * [Efene](https://efene.org/) - Efene is an alternative syntax for the Erlang Programming Language focusing on simplicity, consistency, ease of use and programmer UX.
 * [F*](https://www.fstar-lang.org/) - a general-purpose functional programming language with dependent types, monadic effects, refinement types, and a weakest precondition calculus.
+* [Faber](https://faberlang.dev/) - an experimental, statically typed language for coding agents and human authors, with a mechanical grammar; the same program reads in eight human languages and compiles to Rust, TypeScript, Go, Swift and more.
 * [Felix](http://felix-lang.github.io/felix/) -  an advanced, statically typed, high performance scripting language with native C++ embedding.
 * [Fennel](https://fennel-lang.org) - Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system.
 * [flix](https://flix.dev/) - a statically typed functional, imperative, and logic programming language with advanced features that compiles to JVM bytecode.
