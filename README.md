@@ -47,6 +47,7 @@ Just a list of Awesome Alt Langs to check out:
 * [red](https://www.red-lang.org/) - a next-gen programming language, strongly inspired by REBOL.
 * [ReScript](https://rescript-lang.org/) - The JavaScript-like language you have been waiting for. Previously known as BuckleScript and Reason.
 * [SEMAPRAX](https://wavect.io/semaprax/) - an experimental, agent-native systems programming language built around a stable semantic program graph.
+* [Sipar](https://github.com/osimmoapies/sipar) - a small language for AI agents where data from a model, a web page or a file cannot reach a command, a file write or a URL until the program has checked it.
 * [Shen](http://shenlanguage.org/) - a hypermodern functional language that offers many features not currently available under other functional platforms.
 * [unison](https://www.unisonweb.org/) -  an open source functional programming language based on a simple idea with big implications: code is content-addressed and immutable.
 * [Unseemly](https://unseemly.github.io/) - the first language able to safely typecheck all macros before expansion.
